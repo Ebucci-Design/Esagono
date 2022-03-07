@@ -12,7 +12,7 @@ Esagono installation consistis of three types of devices:
 
 * Light strips. Quantity depends on the selected configuration.
 * Nodes. Quantity depends on the selected configuration.
-* One master node.
+* Master node. Usually only one needed.
 
 ## Light strip
 
@@ -25,16 +25,16 @@ Each light strip has two spring connectors: input and output connectors. The dat
 ## Node
 
 <p align = center>
-<a href = "figures/node_scheme.pdf">
-<img src="figures/node_scheme.png" height="500px"/>
-</a>
+	<a href = "figures/node_scheme.pdf">
+		<img src="figures/node_scheme.png" height="500px"/>
+	</a>
 </p>
 
 Nodes are intended to mechanical and electrical connection of the light strips as well as provide commutation of the data line. Each node has six connectors for light strips that are called ports. Each port can act as an input and output for the data line. Each port's output pin is connected to the next port's input pin (except ports 1 and 6).
 In general, if all the ports of the node are used and all the led strips are configured to direct the data line back to the node they start, the data line path looks as follows: 1->2->3->4->5->6. It should be kept in mind that the data path in the node is not put in a loop and the output of the port 6 is not connected anywhere. In case if one of the port has no light strip connected to it the data line path breaks. To prevent this each node contains a dip switch (see the picture below) that allows the data line to bypass the port with absent light strip and direct it to the next port.
 
 <p align = center>
-<img src="figures/node_dip_switch.png" height="350px"/>
+	<img src="figures/node_dip_switch.png" height="350px"/>
 </p>
 
 Structurally the node consists of following components:
@@ -48,7 +48,7 @@ Structurally the node consists of following components:
 * Six ISO7380 8 mm M3 screws
 
 <p align = center>
-<img src="figures/backplane_2.png" height="350px"/>
+	<img src="figures/backplane_2.png" height="350px"/>
 </p>
 
 When assembling the nodes the front panel should not be installed. Instead the front panels should be screwed in place after the complete assembly of the whole installation and its testing. 
@@ -61,7 +61,7 @@ The master node is the node at which the the the light strip starts. It also hos
 * The controller PCB is connected.
 
 <p align = center>
-<a href = "figures/master_node_scheme.pdf">
-<img src="figures/master_node_scheme.png" height="500px"/>
-</a>
+	<a href = "figures/master_node_scheme.pdf">
+		<img src="figures/master_node_scheme.png" height="500px"/>
+	</a>
 </p>
