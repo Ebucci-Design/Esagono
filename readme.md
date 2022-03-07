@@ -24,7 +24,7 @@ Each light strip has two spring connectors: input and output connectors. The dat
 
 ## Node
 
-[<img src="figures\node_scheme.png" height="500">](figures\node_scheme.pdf)
+[<img src="figures/node_scheme.png" height="500">](figures/node_scheme.pdf)
 
 Nodes are intended to mechanical and electrical connection of the light strips as well as provide commutation of the data line. Each node has six connectors for light strips that are called ports. Each port can act as an input and output for the data line. Each port's output pin is connected to the next port's input pin (except ports 1 and 6).
 In general, if all the ports of the node are used and all the led strips are configured to direct the data line back to the node they start, the data line path looks as follows: 1->2->3->4->5->6.
