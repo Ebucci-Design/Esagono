@@ -53,4 +53,15 @@ Structurally the node consists of following components:
 
 When assembling the nodes the front panel should not be installed. Instead the front panels should be screwed in place after the complete assembly of the whole installation and its testing. 
 
+## Master node
 
+The master node is the node at which the the the light strip starts. It also hosts the controller. Structurally master node is the same as regular node with following exceptions:
+
+* The node pcb has all its components populated (i.e. the power connector, power reverse polarity protection circuit and pinheader connectors).
+* The controller PCB is connected.
+
+<p align = center>
+<a href = "figures/master_node_scheme.pdf">
+<img src="figures/master_node_scheme.png" height="500px"/>
+</a>
+</p>
