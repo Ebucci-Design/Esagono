@@ -1,7 +1,7 @@
 # Esagono
 Esagono is a set of devices intended to create scalable light installations based on equilateral triangles and regular hexagons. 
 
-From the logical point of view Esagono installation can be considered as and addressable led strip. Esagono features:
+From the logical point of view Esagono installation can be considered as an addressable led strip. Esagono features:
 
 * Solderless assembly.
 * Open source controller firmware.
@@ -14,7 +14,8 @@ Esagono installation consistis of three types of devices:
 * Nodes. Quantity depends on the selected configuration.
 * Master node. Usually only one needed.
 
-## Light strip
+## Devices overview
+### Light strip
 
 ![](figures/light_strip.png)
 
@@ -22,7 +23,7 @@ Light strip is the main active device of the installation. Each light strip host
 
 Each light strip has two spring connectors: input and output connectors. The data input of the first LED is connected to the input connector data pin. However, data output of the last LED can be routed to both ends of the light strip using the switch placed in the middle of the strip. This is one of the data commutating means that ebables arbitrary configurations of the whole installation. 
 
-## Node
+### Node
 
 <p align = center>
 	<a href = "figures/node_scheme.pdf">
@@ -53,7 +54,7 @@ Structurally the node consists of following components:
 
 When assembling the nodes the front panel should not be installed. Instead the front panels should be screwed in place after the complete assembly of the whole installation and its testing. 
 
-## Master node
+### Master node
 
 The master node is the node at which the the the light strip starts. It also hosts the controller. Structurally master node is the same as regular node with following exceptions:
 
@@ -65,3 +66,7 @@ The master node is the node at which the the the light strip starts. It also hos
 		<img src="figures/master_node_scheme.png" height="500px"/>
 	</a>
 </p>
+
+## Assembly
+
+Before assembly 
