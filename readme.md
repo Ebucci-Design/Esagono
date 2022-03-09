@@ -84,7 +84,7 @@ After all the nodes and light strips are connected, screws holding nodes togethe
 
 Several are provided as an example. Additional schemes are highly welcomed in any form: it can be a pull request to this repository or just a e-mail. Any decent schemes will be added to the example list (if only the author of the scheme does not mind).
 
-The provided schemes are:
+The provided schemes are (all picrures are clickable):
 
 ### Esagono andante
 
