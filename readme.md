@@ -138,3 +138,5 @@ BOM
 | Light strip | 40       |
 | Node        | 24       |
 | Master Node | 1        |
+
+## Other
