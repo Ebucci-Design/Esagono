@@ -69,4 +69,72 @@ The master node is the node at which the the the light strip starts. It also hos
 
 ## Assembly
 
-Before assembly 
+Careful planning should be conducted before starting the assembly. The installation should act as a continuous addressable led strip routing. This condition limits the possible installation configurations. Although existing means of data line commutation are still enough for virtually any configuration, its just a matter of planning.
+
+The pieces connect to each other using plastic push clips (similar to those used in automotive industry but smaller) as shown in the picture below.
+
+<p align = center>
+	<img src="figures/clips.png" height="450px"/>
+</p>
+ 
+**Important notice!** The hole tolerances for such a connection should be really tight and sometimes the holes in the parts don't meet the tolerances (the holes tend to be slightly smaller than needed). In this case please use a screwdriver with the provided 2.1 mm drill bit to clean the holes.
+After all the nodes and light strips are connected, screws holding nodes together should be unscrewed to put in place the washers and the top cover on top of them. After that the screws should be put back.
+
+## Assembly schemes 
+
+Several are provided as an example. Additional schemes are highly welcomed in any form: it can be a pull request to this repository or just a e-mail. Any decent schemes will be added to the example list (if only the author of the scheme does not mind).
+
+The provided schemes are:
+
+### Esagono andante
+
+<p align = center>
+	<a href = "figures/andante.pdf">
+		<img src="figures/andante.png" height="500px"/>
+	</a>
+</p>
+
+BOM
+
+| Item        | Quantity |
+|-------------|----------|
+| Light strip | 12       |
+| Node        | 6        |
+| Master Node | 1        |
+
+### Esagono maschile
+
+
+<p align = center>
+	<a href = "figures/maschile.pdf">
+		<img src="figures/maschile.png" height="500px"/>
+	</a>
+</p>
+
+BOM
+
+| Item        | Quantity |
+|-------------|----------|
+| Light strip | 34       |
+| Node        | 21       |
+| Master Node | 1        |
+
+### Esagono Chromance
+
+This is a tribute to a [fantabulous youtuber Zack Freedman](https://www.youtube.com/watch?v=g6n8XLmZ__I). Thanks, Zack!
+
+
+<p align = center>
+	<a href = "figures/chromance.pdf">
+		<img src="figures/сhromance.png" height="600px"/>
+	</a>
+</p>
+
+
+BOM
+
+| Item        | Quantity |
+|-------------|----------|
+| Light strip | 40       |
+| Node        | 24       |
+| Master Node | 1        |
