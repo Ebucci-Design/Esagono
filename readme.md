@@ -82,11 +82,11 @@ After all the nodes and light strips are connected, screws holding nodes togethe
 
 ## Assembly schemes 
 
-Several are provided as an example. Additional schemes are highly welcomed in any form: it can be a pull request to this repository or just a e-mail. Any decent schemes will be added to the example list (if only the author of the scheme does not mind).
+Several assembly schemes are provided as an example. Additional schemes are highly welcomed in any form: it can be a pull request to this repository or just a e-mail. Any decent schemes will be added to the example list (if only the author of the scheme does not mind). Beside the image of the assembly scheme a mapping file for each schemes is also provided (Please refer to [software description](sw_description.md) for more details.
 
 The provided schemes are (all picrures are clickable):
 
-### Esagono andante
+### Esagono Andante
 
 <p align = center>
 	<a href = "figures/andante.pdf">
@@ -102,7 +102,9 @@ BOM
 | Node        | 6        |
 | Master Node | 1        |
 
-### Esagono maschile
+[Andante map file](software/andante_map.h)
+
+### Esagono Maschile
 
 
 <p align = center>
@@ -118,6 +120,8 @@ BOM
 | Light strip | 34       |
 | Node        | 21       |
 | Master Node | 1        |
+
+[Maschile map file](software/maschile_map.h)
 
 ### Esagono Chromance
 
@@ -138,5 +142,7 @@ BOM
 | Light strip | 40       |
 | Node        | 24       |
 | Master Node | 1        |
+
+[Chromance map file](software/chromance_map.h)
 
 ## Other
