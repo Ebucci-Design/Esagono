@@ -146,3 +146,5 @@ BOM
 [Chromance map file](software/chromance_map.h)
 
 ## Other
+
+Feel free to send a e-mail to giovanni.ebucci@gmail.com if any questions.
