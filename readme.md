@@ -125,7 +125,7 @@ This is a tribute to a [fantabulous youtuber Zack Freedman](https://www.youtube.
 
 
 <p align = center>
-	<a href = "figures/chromance.pdf">
+	<a href = "figures/сhromance.pdf">
 		<img src="figures/сhromance.png" height="600px"/>
 	</a>
 </p>
