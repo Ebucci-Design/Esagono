@@ -5,8 +5,8 @@ From the logical point of view Esagono installation can be considered as an addr
 
 * Solderless assembly.
 * Open source controller firmware.
-* Scalability enables creating of really BIG installations.
-* Data line commutation means enables almost arbitrary configurations.
+* Scalability enables creation of really BIG installations.
+* Data line commutation means enable arbitrary configurations.
 
 Esagono installation consistis of three types of devices:
 
