@@ -1,7 +1,7 @@
 # Esagono
-Esagono is a set of devices intended to create scalable light installations based on equilateral triangles and regular hexagons. 
+Esagono is a set of devices designed for creating scalable light installations based on equilateral triangles and regular hexagons.
 
-From the logical point of view Esagono installation can be considered as an addressable led strip. Esagono features:
+From the logical point of view Esagono installation can be considered as an addressable led strip. Esagono basic features are:
 
 * Solderless assembly.
 * Open source controller firmware.
