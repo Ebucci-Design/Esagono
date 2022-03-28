@@ -106,7 +106,6 @@ BOM
 
 ### Esagono Maschile
 
-
 <p align = center>
 	<a href = "figures/maschile.pdf">
 		<img src="figures/maschile.png" height="500px"/>
@@ -122,6 +121,24 @@ BOM
 | Master Node | 1        |
 
 [Maschile map file](software/maschile_map.h)
+
+### Esagono HexTriforce
+
+<p align = center>
+	<a href = "figures/HexTriforce scheme.pdf">
+		<img src="figures/HexTriforce scheme.png" height="500px"/>
+	</a>
+</p>
+
+BOM
+
+| Item        | Quantity |
+|-------------|----------|
+| Light strip | 24       |
+| Node        | 16       |
+| Master Node | 1        |
+
+[HexTriforce map file](software/HexTriforce_map.h)
 
 ### Esagono Chromance
 
