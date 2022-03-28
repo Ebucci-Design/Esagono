@@ -162,6 +162,20 @@ BOM
 
 [Chromance map file](software/chromance_map.h)
 
+## Power considerations
+
+Each light strip may consume up to 3.5 watts of power when lit full brightness white color. Esagono lighting system power supply voltage range is 12..36 V. Power supply current capacity can be calculated using the number of light strip used and selected power supply voltage. It is recommended to use at least 24 V power supply voltage for installations of more than 12 strips. 
+For example, HexTriforce installation takes 24 light strips. This means max power is
+
+Pmax = 24 * 3,5 = 84 W. 
+
+If powered from 24 V power supply max current will be
+
+Imax = 84 / 24 = 3,5 A
+
+Esagono lighting system is inherentlу tolerant to voltage drop issues as every lightsrip contains a small dc-dc step down converter which provides a stable 5 V line for powering LEDs no matter what voltage drop on supply voltage is. However, it is beneficial to use higher voltages to reduce the power line current which enables to use thiner wiring and more compact power connectors. 
+
 ## Other
 
 Feel free to send a e-mail to giovanni.ebucci@gmail.com if any questions.
+x
