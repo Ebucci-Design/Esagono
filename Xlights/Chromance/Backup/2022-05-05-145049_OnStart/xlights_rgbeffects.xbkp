@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xrgb>
+  <models>
+    <model DisplayAs="Custom" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm3="1" LayoutGroup="Default" parm2="10" parm1="1" Depth="1" CustomModel="1;2;3;4;5;10;9;8;7;6" CustomBkgLightness="0" CustomBkgImage="" PixelSize="15" name="LedStrip39" Controller="Ethernet_" ModelChain="&gt;LedStrip38" WorldPosX="564.6453" WorldPosY="62.9893" WorldPosZ="0.0000" ScaleX="1.0000" ScaleY="13.0000" ScaleZ="1.0000" RotateX="0.00000000" RotateY="0.00000000" RotateZ="-60.00000000" versionNumber="5" StartChannel="!Ethernet_:1171">
+      <ControllerConnection Port="1" Protocol="ws2811"/>
+    </model>
+    <model DisplayAs="Custom" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm3="1" LayoutGroup="Default" parm2="10" parm1="1" Depth="1" CustomModel="1;2;3;4;5;10;9;8;7;6" CustomBkgLightness="0" CustomBkgImage="" PixelSize="15" name="LedStrip38" Controller="Ethernet_" ModelChain="&gt;LedStrip37" WorldPosX="565.2696" WorldPosY="135.8119" WorldPosZ="0.0000" ScaleX="1.0000" ScaleY="13.0000" ScaleZ="1.0000" RotateX="0.00000000" RotateY="0.00000000" RotateZ="-120.00000000" versionNumber="5" StartChannel="!Ethernet_:1141">
+      <ControllerConnection Port="1" Protocol="ws2811"/>
+    </model>
+    <model DisplayAs="Custom" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm3="1" LayoutGroup="Default" parm2="10" parm1="1" Depth="1" CustomModel="1;2;3;4;5;10;9;8;7;6" CustomBkgLightness="0" CustomBkgImage="" PixelSize="15" name="LedStrip37" Controller="Ethernet_" ModelChain="&gt;LedStrip36" WorldPosX="626.6102" WorldPosY="172.9286" WorldPosZ="0.0000" ScaleX="1.0000" ScaleY="13.0000" ScaleZ="1.0000" RotateX="0.00000000" RotateY="0.00000000" RotateZ="180.00000000" versionNumber="5" StartChannel="!Ethernet_:1111">
+      <ControllerConnection Port="1" Protocol="ws2811"/>
+    </model>
+    <model DisplayAs="Custom" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm3="1" LayoutGroup="Default" parm2="10" parm1="1" Depth="1" CustomModel="1;2;3;4;5;10;9;8;7;6" CustomBkgLightness="0" CustomBkgImage="" PixelSize="15" name="LedStrip36" Controller="Ethernet_" ModelChain="&gt;LedStrip35" WorldPosX="702.5588" WorldPosY="142.7494" WorldPosZ="0.0000" ScaleX="1.0000" ScaleY="13.0000" ScaleZ="1.0000" RotateX="0.00000000" RotateY="0.00000000" RotateZ="-60.00000000" versionNumber="5" StartChannel="!Ethernet_:1081">
+      <ControllerConnection Port="1" Protocol="ws2811"/>
+    </model>
+    <model DisplayAs="Custom" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm3="1" LayoutGroup="Default" parm2="10" parm1="1" Depth="1" CustomModel="1;2;3;4;5;10;9;8;7;6" CustomBkgLightness="0" CustomBkgImage="" PixelSize="15" name="LedStrip35" Controller="Ethernet_" ModelChain="&gt;LedStrip34" WorldPosX="764.0845" WorldPosY="261.7584" WorldPosZ="0.0000" ScaleX="1.0000" ScaleY="13.0000" ScaleZ="1.0000" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" versionNumber="5" StartChannel="!Ethernet_:1051">
+      <ControllerConnection Port="1" Protocol="ws2811"/>
+    </model>
+    <model DisplayAs="Custom" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm3="1" LayoutGroup="Default" parm2="10" parm1="1" Depth="1" CustomModel="1;2;3;4;5;10;9;8;7;6" CustomBkgLightness="0" CustomBkgImage="" PixelSize="15" name="LedStrip34" Controller="Ethernet_" ModelChain="&gt;LedStrip33" WorldPosX="701.9836" WorldPosY="299.4512" WorldPosZ="0.0000" ScaleX="1.0000" ScaleY="13.0000" ScaleZ="1.0000" RotateX="0.00000000" RotateY="0.00000000" RotateZ="-60.00000000" versionNumber="5" StartChannel="!Ethernet_:1021">
+      <ControllerConnection Port="1" Protocol="ws2811"/>
+    </model>
+    <model DisplayAs="Custom" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm3="1" LayoutGroup="Default" parm2="10" parm1="1" Depth="1" CustomModel="1;2;3;4;5;10;9;8;7;6" CustomBkgLightness="0" CustomBkgImage="" PixelSize="15" name="LedStrip33" Controller="Ethernet_" ModelChain="&gt;LedStrip32" WorldPosX="763.1692" WorldPosY="408.5504" WorldPosZ="0.0000" ScaleX="1.0000" ScaleY="13.0000" ScaleZ="1.0000" RotateX="0.00000000" RotateY="0.00000000" RotateZ="180.00000000" versionNumber="5" StartChannel="!Ethernet_:991">
+      <ControllerConnection Port="1" Protocol="ws2811"/>
+    </model>
+    <model DisplayAs="Custom" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm3="1" LayoutGroup="Default" parm2="10" parm1="1" Depth="1" CustomModel="1;2;3;4;5;10;9;8;7;6" CustomBkgLightness="0" CustomBkgImage="" PixelSize="15" name="LedStrip32" Controller="Ethernet_" ModelChain="&gt;LedStrip31" WorldPosX="836.7112" WorldPosY="378.1859" WorldPosZ="0.0000" ScaleX="1.0000" ScaleY="13.0000" ScaleZ="1.0000" RotateX="0.00000000" RotateY="0.00000000" RotateZ="-60.00000000" versionNumber="5" StartChannel="!Ethernet_:961">
+      <ControllerConnection Port="1" Protocol="ws2811"/>
+    </model>
+    <model DisplayAs="Custom" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm3="1" LayoutGroup="Default" parm2="10" parm1="1" Depth="1" CustomModel="1;2;3;4;5;10;9;8;7;6" CustomBkgLightness="0" CustomBkgImage="" PixelSize="15" name="LedStrip31" Controller="Ethernet_" ModelChain="&gt;LedStrip30" WorldPosX="899.9460" WorldPosY="498.8055" WorldPosZ="0.0000" ScaleX="1.0000" ScaleY="13.0000" ScaleZ="1.0000" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" versionNumber="5" StartChannel="!Ethernet_:931">
+      <ControllerConnection Port="1" Protocol="ws2811"/>
+    </model>
+    <model DisplayAs="Custom" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm3="1" LayoutGroup="Default" parm2="10" parm1="1" Depth="1" CustomModel="1;2;3;4;5;10;9;8;7;6" CustomBkgLightness="0" CustomBkgImage="" PixelSize="15" name="LedStrip30" Controller="Ethernet_" ModelChain="&gt;LedStrip29" WorldPosX="836.9899" WorldPosY="535.2978" WorldPosZ="0.0000" ScaleX="1.0000" ScaleY="13.0000" ScaleZ="1.0000" RotateX="0.00000000" RotateY="0.00000000" RotateZ="-60.00000000" versionNumber="5" StartChannel="!Ethernet_:901">
+      <ControllerConnection Port="1" Protocol="ws2811"/>
+    </model>
+    <model DisplayAs="Custom" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm3="1" LayoutGroup="Default" parm2="10" parm1="1" Depth="1" CustomModel="1;2;3;4;5;10;9;8;7;6" CustomBkgLightness="0" CustomBkgImage="" PixelSize="15" name="LedStrip29" Controller="Ethernet_" ModelChain="&gt;LedStrip28" WorldPosX="826.6342" WorldPosY="614.6238" WorldPosZ="0.0000" ScaleX="1.0000" ScaleY="13.0000" ScaleZ="1.0000" RotateX="0.00000000" RotateY="0.00000000" RotateZ="60.00000000" versionNumber="5" StartChannel="!Ethernet_:871">
+      <ControllerConnection Port="1" Protocol="ws2811"/>
+    </model>
+    <model DisplayAs="Custom" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm3="1" LayoutGroup="Default" parm2="10" parm1="1" Depth="1" CustomModel="1;2;3;4;5;10;9;8;7;6" CustomBkgLightness="0" CustomBkgImage="" PixelSize="15" name="LedStrip28" Controller="Ethernet_" ModelChain="&gt;LedStrip27" WorldPosX="690.4995" WorldPosY="608.3020" WorldPosZ="0.0000" ScaleX="1.0000" ScaleY="13.0000" ScaleZ="1.0000" RotateX="0.00000000" RotateY="0.00000000" RotateZ="120.00000000" versionNumber="5" StartChannel="!Ethernet_:841">
+      <ControllerConnection Port="1" Protocol="ws2811"/>
+    </model>
+    <model DisplayAs="Custom" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm3="1" LayoutGroup="Default" parm2="10" parm1="1" Depth="1" CustomModel="1;2;3;4;5;10;9;8;7;6" CustomBkgLightness="0" CustomBkgImage="" PixelSize="15" name="LedStrip27" Controller="Ethernet_" ModelChain="&gt;LedStrip26" WorldPosX="690.4539" WorldPosY="536.0058" WorldPosZ="0.0000" ScaleX="1.0000" ScaleY="13.0000" ScaleZ="1.0000" RotateX="0.00000000" RotateY="0.00000000" RotateZ="60.00000000" versionNumber="5" StartChannel="!Ethernet_:811">
+      <ControllerConnection Port="1" Protocol="ws2811"/>
+    </model>
+    <model DisplayAs="Custom" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm3="1" LayoutGroup="Default" parm2="10" parm1="1" Depth="1" CustomModel="1;2;3;4;5;10;9;8;7;6" CustomBkgLightness="0" CustomBkgImage="" PixelSize="15" name="LedStrip26" Controller="Ethernet_" ModelChain="&gt;LedStrip25" WorldPosX="626.9120" WorldPosY="487.4343" WorldPosZ="0.0000" ScaleX="1.0000" ScaleY="13.0000" ScaleZ="1.0000" RotateX="0.00000000" RotateY="0.00000000" RotateZ="180.00000000" versionNumber="5" StartChannel="!Ethernet_:781">
+      <ControllerConnection Port="1" Protocol="ws2811"/>
+    </model>
+    <model DisplayAs="Custom" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm3="1" LayoutGroup="Default" parm2="10" parm1="1" Depth="1" CustomModel="1;2;3;4;5;10;9;8;7;6" CustomBkgLightness="0" CustomBkgImage="" PixelSize="15" name="LedStrip25" Controller="Ethernet_" ModelChain="&gt;LedStrip24" WorldPosX="690.4279" WorldPosY="378.5773" WorldPosZ="0.0000" ScaleX="1.0000" ScaleY="13.0000" ScaleZ="1.0000" RotateX="0.00000000" RotateY="0.00000000" RotateZ="60.00000000" versionNumber="5" StartChannel="!Ethernet_:751">
+      <ControllerConnection Port="1" Protocol="ws2811"/>
+    </model>
+    <model DisplayAs="Custom" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm3="1" LayoutGroup="Default" parm2="10" parm1="1" Depth="1" CustomModel="1;2;3;4;5;10;9;8;7;6" CustomBkgLightness="0" CustomBkgImage="" PixelSize="15" name="LedStrip24" Controller="Ethernet_" ModelChain="&gt;LedStrip23" WorldPosX="554.3252" WorldPosY="372.5426" WorldPosZ="0.0000" ScaleX="1.0000" ScaleY="13.0000" ScaleZ="1.0000" RotateX="0.00000000" RotateY="0.00000000" RotateZ="120.00000000" versionNumber="5" StartChannel="!Ethernet_:721">
+      <ControllerConnection Port="1" Protocol="ws2811"/>
+    </model>
+    <model DisplayAs="Custom" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm3="1" LayoutGroup="Default" parm2="10" parm1="1" Depth="1" CustomModel="1;2;3;4;5;10;9;8;7;6" CustomBkgLightness="0" CustomBkgImage="" PixelSize="15" name="LedStrip23" Controller="Ethernet_" ModelChain="&gt;LedStrip22" WorldPosX="553.7600" WorldPosY="300.5137" WorldPosZ="0.0000" ScaleX="1.0000" ScaleY="13.0000" ScaleZ="1.0000" RotateX="0.00000000" RotateY="0.00000000" RotateZ="60.00000000" versionNumber="5" StartChannel="!Ethernet_:691">
+      <ControllerConnection Port="1" Protocol="ws2811"/>
+    </model>
+    <model DisplayAs="Custom" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm3="1" LayoutGroup="Default" parm2="10" parm1="1" Depth="1" CustomModel="1;2;3;4;5;10;9;8;7;6" CustomBkgLightness="0" CustomBkgImage="" PixelSize="15" name="LedStrip22" Controller="Ethernet_" ModelChain="&gt;LedStrip21" WorldPosX="491.8674" WorldPosY="263.2116" WorldPosZ="0.0000" ScaleX="1.0000" ScaleY="13.0000" ScaleZ="1.0000" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" versionNumber="5" StartChannel="!Ethernet_:661">
+      <ControllerConnection Port="1" Protocol="ws2811"/>
+    </model>
+    <model DisplayAs="Custom" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm3="1" LayoutGroup="Default" parm2="10" parm1="1" Depth="1" CustomModel="1;2;3;4;5;10;9;8;7;6" CustomBkgLightness="0" CustomBkgImage="" PixelSize="15" name="LedStrip21" Controller="Ethernet_" ModelChain="&gt;LedStrip20" WorldPosX="429.2637" WorldPosY="299.3225" WorldPosZ="0.0000" ScaleX="1.0000" ScaleY="13.0000" ScaleZ="1.0000" RotateX="0.00000000" RotateY="0.00000000" RotateZ="-60.00000000" versionNumber="5" StartChannel="!Ethernet_:631">
+      <ControllerConnection Port="1" Protocol="ws2811"/>
+    </model>
+    <model DisplayAs="Custom" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm3="1" LayoutGroup="Default" parm2="10" parm1="1" Depth="1" CustomModel="1;2;3;4;5;10;9;8;7;6" CustomBkgLightness="0" CustomBkgImage="" PixelSize="15" name="LedStrip20" Controller="Ethernet_" ModelChain="&gt;LedStrip19" WorldPosX="429.2087" WorldPosY="371.6934" WorldPosZ="0.0000" ScaleX="1.0000" ScaleY="13.0000" ScaleZ="1.0000" RotateX="0.00000000" RotateY="0.00000000" RotateZ="-120.00000000" versionNumber="5" StartChannel="!Ethernet_:601">
+      <ControllerConnection Port="1" Protocol="ws2811"/>
+    </model>
+    <model DisplayAs="Custom" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm3="1" LayoutGroup="Default" parm2="10" parm1="1" Depth="1" CustomModel="1;2;3;4;5;10;9;8;7;6" CustomBkgLightness="0" CustomBkgImage="" PixelSize="15" name="LedStrip19" Controller="Ethernet_" ModelChain="&gt;LedStrip18" WorldPosX="492.2360" WorldPosY="420.2520" WorldPosZ="0.0000" ScaleX="1.0000" ScaleY="13.0000" ScaleZ="1.0000" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" versionNumber="5" StartChannel="!Ethernet_:571">
+      <ControllerConnection Port="1" Protocol="ws2811"/>
+    </model>
+    <model DisplayAs="Custom" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm3="1" LayoutGroup="Default" parm2="10" parm1="1" Depth="1" CustomModel="1;2;3;4;5;10;9;8;7;6" CustomBkgLightness="0" CustomBkgImage="" PixelSize="15" name="LedStrip18" Controller="Ethernet_" ModelChain="&gt;LedStrip17" WorldPosX="554.4152" WorldPosY="530.0190" WorldPosZ="0.0000" ScaleX="1.0000" ScaleY="13.0000" ScaleZ="1.0000" RotateX="0.00000000" RotateY="0.00000000" RotateZ="120.00000000" versionNumber="5" StartChannel="!Ethernet_:541">
+      <ControllerConnection Port="1" Protocol="ws2811"/>
+    </model>
+    <model DisplayAs="Custom" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm3="1" LayoutGroup="Default" parm2="10" parm1="1" Depth="1" CustomModel="1;2;3;4;5;10;9;8;7;6" CustomBkgLightness="0" CustomBkgImage="" PixelSize="15" name="LedStrip17" Controller="Ethernet_" ModelChain="&gt;LedStrip16" WorldPosX="554.8412" WorldPosY="614.4033" WorldPosZ="0.0000" ScaleX="1.0000" ScaleY="13.0000" ScaleZ="1.0000" RotateX="0.00000000" RotateY="0.00000000" RotateZ="60.00000000" versionNumber="5" StartChannel="!Ethernet_:511">
+      <ControllerConnection Port="1" Protocol="ws2811"/>
+    </model>
+    <model DisplayAs="Custom" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm3="1" LayoutGroup="Default" parm2="10" parm1="1" Depth="1" CustomModel="1;2;3;4;5;10;9;8;7;6" CustomBkgLightness="0" CustomBkgImage="" PixelSize="15" name="LedStrip16" Controller="Ethernet_" ModelChain="&gt;LedStrip15" WorldPosX="418.1427" WorldPosY="608.4789" WorldPosZ="0.0000" ScaleX="1.0000" ScaleY="13.0000" ScaleZ="1.0000" RotateX="0.00000000" RotateY="0.00000000" RotateZ="120.00000000" versionNumber="5" StartChannel="!Ethernet_:481">
+      <ControllerConnection Port="1" Protocol="ws2811"/>
+    </model>
+    <model DisplayAs="Custom" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm3="1" LayoutGroup="Default" parm2="10" parm1="1" Depth="1" CustomModel="1;2;3;4;5;10;9;8;7;6" CustomBkgLightness="0" CustomBkgImage="" PixelSize="15" name="LedStrip15" Controller="Ethernet_" ModelChain="&gt;LedStrip14" WorldPosX="418.5800" WorldPosY="536.0977" WorldPosZ="0.0000" ScaleX="1.0000" ScaleY="13.0000" ScaleZ="1.0000" RotateX="0.00000000" RotateY="0.00000000" RotateZ="60.00000000" versionNumber="5" StartChannel="!Ethernet_:451">
+      <ControllerConnection Port="1" Protocol="ws2811"/>
+    </model>
+    <model DisplayAs="Custom" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm3="1" LayoutGroup="Default" parm2="10" parm1="1" Depth="1" CustomModel="1;2;3;4;5;10;9;8;7;6" CustomBkgLightness="0" CustomBkgImage="" PixelSize="15" name="LedStrip14" Controller="Ethernet_" ModelChain="&gt;LedStrip13" WorldPosX="356.1190" WorldPosY="499.7357" WorldPosZ="0.0000" ScaleX="1.0000" ScaleY="13.0000" ScaleZ="1.0000" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" versionNumber="5" StartChannel="!Ethernet_:421">
+      <ControllerConnection Port="1" Protocol="ws2811"/>
+    </model>
+    <model DisplayAs="Custom" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm3="1" LayoutGroup="Default" parm2="10" parm1="1" Depth="1" CustomModel="1;2;3;4;5;10;9;8;7;6" CustomBkgLightness="0" CustomBkgImage="" PixelSize="15" name="LedStrip13" Controller="Ethernet_" ModelChain="&gt;LedStrip12" WorldPosX="292.9414" WorldPosY="534.5275" WorldPosZ="0.0000" ScaleX="1.0000" ScaleY="13.0000" ScaleZ="1.0000" RotateX="0.00000000" RotateY="0.00000000" RotateZ="-60.00000000" versionNumber="5" StartChannel="!Ethernet_:391">
+      <ControllerConnection Port="1" Protocol="ws2811"/>
+    </model>
+    <model DisplayAs="Custom" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm3="1" LayoutGroup="Default" parm2="10" parm1="1" Depth="1" CustomModel="1;2;3;4;5;10;9;8;7;6" CustomBkgLightness="0" CustomBkgImage="" PixelSize="15" name="LedStrip12" Controller="Ethernet_" ModelChain="&gt;LedStrip11" WorldPosX="281.8838" WorldPosY="614.8826" WorldPosZ="0.0000" ScaleX="1.0000" ScaleY="13.0000" ScaleZ="1.0000" RotateX="0.00000000" RotateY="0.00000000" RotateZ="60.00000000" versionNumber="5" StartChannel="!Ethernet_:361">
+      <ControllerConnection Port="1" Protocol="ws2811"/>
+    </model>
+    <model DisplayAs="Custom" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm3="1" LayoutGroup="Default" parm2="10" parm1="1" Depth="1" CustomModel="1;2;3;4;5;10;9;8;7;6" CustomBkgLightness="0" CustomBkgImage="" PixelSize="15" name="LedStrip11" Controller="Ethernet_" ModelChain="&gt;LedStrip10" WorldPosX="146.3998" WorldPosY="608.4135" WorldPosZ="0.0000" ScaleX="1.0000" ScaleY="13.0000" ScaleZ="1.0000" RotateX="0.00000000" RotateY="0.00000000" RotateZ="120.00000000" versionNumber="5" StartChannel="!Ethernet_:331">
+      <ControllerConnection Port="1" Protocol="ws2811"/>
+    </model>
+    <model DisplayAs="Custom" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm3="1" LayoutGroup="Default" parm2="10" parm1="1" Depth="1" CustomModel="1;2;3;4;5;10;9;8;7;6" CustomBkgLightness="0" CustomBkgImage="" PixelSize="15" name="LedStrip10" Controller="Ethernet_" ModelChain="&gt;LedStrip9" WorldPosX="146.6304" WorldPosY="535.9388" WorldPosZ="0.0000" ScaleX="1.0000" ScaleY="13.0000" ScaleZ="1.0000" RotateX="0.00000000" RotateY="0.00000000" RotateZ="60.00000000" versionNumber="5" StartChannel="!Ethernet_:301">
+      <ControllerConnection Port="1" Protocol="ws2811"/>
+    </model>
+    <model DisplayAs="Custom" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm3="1" LayoutGroup="Default" parm2="10" parm1="1" Depth="1" CustomModel="1;2;3;4;5;10;9;8;7;6" CustomBkgLightness="0" CustomBkgImage="" PixelSize="15" name="LedStrip9" Controller="Ethernet_" ModelChain="&gt;LedStrip8" WorldPosX="82.9928" WorldPosY="486.8432" WorldPosZ="0.0000" ScaleX="1.0000" ScaleY="13.0000" ScaleZ="1.0000" RotateX="0.00000000" RotateY="0.00000000" RotateZ="-180.00000000" versionNumber="5" StartChannel="!Ethernet_:271">
+      <ControllerConnection Port="1" Protocol="ws2811"/>
+    </model>
+    <model DisplayAs="Custom" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm3="1" LayoutGroup="Default" parm2="10" parm1="1" Depth="1" CustomModel="1;2;3;4;5;10;9;8;7;6" CustomBkgLightness="0" CustomBkgImage="" PixelSize="15" name="LedStrip8" Controller="Ethernet_" ModelChain="&gt;LedStrip7" WorldPosX="156.1378" WorldPosY="371.4738" WorldPosZ="0.0000" ScaleX="1.0000" ScaleY="13.0000" ScaleZ="1.0000" RotateX="0.00000000" RotateY="0.00000000" RotateZ="-120.00000000" versionNumber="5" StartChannel="!Ethernet_:241">
+      <ControllerConnection Port="1" Protocol="ws2811"/>
+    </model>
+    <model DisplayAs="Custom" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm3="1" LayoutGroup="Default" parm2="10" parm1="1" Depth="1" CustomModel="1;2;3;4;5;10;9;8;7;6" CustomBkgLightness="0" CustomBkgImage="" PixelSize="15" name="LedStrip7" Controller="Ethernet_" ModelChain="&gt;LedStrip6" WorldPosX="219.3601" WorldPosY="408.6623" WorldPosZ="0.0000" ScaleX="1.0000" ScaleY="13.0000" ScaleZ="1.0000" RotateX="0.00000000" RotateY="0.00000000" RotateZ="-180.00000000" versionNumber="5" StartChannel="!Ethernet_:211">
+      <ControllerConnection Port="1" Protocol="ws2811"/>
+    </model>
+    <model DisplayAs="Custom" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm3="1" LayoutGroup="Default" parm2="10" parm1="1" Depth="1" CustomModel="1;2;3;4;5;10;9;8;7;6" CustomBkgLightness="0" CustomBkgImage="" PixelSize="15" name="LedStrip6" Controller="Ethernet_" ModelChain="&gt;LedStrip5" WorldPosX="282.7523" WorldPosY="372.8232" WorldPosZ="0.0000" ScaleX="1.0000" ScaleY="13.0000" ScaleZ="1.0000" RotateX="0.00000000" RotateY="0.00000000" RotateZ="120.00000000" versionNumber="5" StartChannel="!Ethernet_:181">
+      <ControllerConnection Port="1" Protocol="ws2811"/>
+    </model>
+    <model DisplayAs="Custom" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm3="1" LayoutGroup="Default" parm2="10" parm1="1" Depth="1" CustomModel="1;2;3;4;5;10;9;8;7;6" CustomBkgLightness="0" CustomBkgImage="" PixelSize="15" name="LedStrip5" Controller="Ethernet_" ModelChain="&gt;LedStrip4" WorldPosX="282.8178" WorldPosY="299.8538" WorldPosZ="0.0000" ScaleX="1.0000" ScaleY="13.0000" ScaleZ="1.0000" RotateX="0.00000000" RotateY="0.00000000" RotateZ="60.00000000" versionNumber="5" StartChannel="!Ethernet_:151">
+      <ControllerConnection Port="1" Protocol="ws2811"/>
+    </model>
+    <model DisplayAs="Custom" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm3="1" LayoutGroup="Default" parm2="10" parm1="1" Depth="1" CustomModel="1;2;3;4;5;10;9;8;7;6" CustomBkgLightness="0" CustomBkgImage="" PixelSize="15" name="LedStrip4" Controller="Ethernet_" ModelChain="&gt;LedStrip3" WorldPosX="218.9010" WorldPosY="249.9654" WorldPosZ="0.0000" ScaleX="1.0000" ScaleY="13.0000" ScaleZ="1.0000" RotateX="0.00000000" RotateY="0.00000000" RotateZ="-180.00000000" versionNumber="5" StartChannel="!Ethernet_:121">
+      <ControllerConnection Port="1" Protocol="ws2811"/>
+    </model>
+    <model DisplayAs="Custom" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm3="1" LayoutGroup="Default" parm2="10" parm1="1" Depth="1" CustomModel="1;2;3;4;5;10;9;8;7;6" CustomBkgLightness="0" CustomBkgImage="" PixelSize="15" name="LedStrip3" Controller="Ethernet_" ModelChain="&gt;LedStrip2" WorldPosX="292.2661" WorldPosY="135.9784" WorldPosZ="0.0000" ScaleX="1.0000" ScaleY="13.0000" ScaleZ="1.0000" RotateX="0.00000000" RotateY="0.00000000" RotateZ="-120.00000000" versionNumber="5" StartChannel="!Ethernet_:91">
+      <ControllerConnection Port="1" Protocol="ws2811"/>
+    </model>
+    <model DisplayAs="Custom" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm3="1" LayoutGroup="Default" parm2="10" parm1="1" Depth="1" CustomModel="1;2;3;4;5;10;9;8;7;6" CustomBkgLightness="0" CustomBkgImage="" PixelSize="15" name="LedStrip2" Controller="Ethernet_" ModelChain="&gt;LedStrip1" WorldPosX="355.1920" WorldPosY="172.8286" WorldPosZ="0.0000" ScaleX="1.0000" ScaleY="13.0000" ScaleZ="1.0000" RotateX="0.00000000" RotateY="0.00000000" RotateZ="-180.00000000" versionNumber="5" StartChannel="!Ethernet_:61">
+      <ControllerConnection Port="1" Protocol="ws2811"/>
+    </model>
+    <model DisplayAs="Custom" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm3="1" LayoutGroup="Default" parm2="10" parm1="1" Depth="1" CustomModel="1;2;3;4;5;10;9;8;7;6" CustomBkgLightness="0" CustomBkgImage="" PixelSize="15" name="LedStrip0" Controller="Ethernet_" WorldPosX="427.6447" WorldPosY="57.7516" WorldPosZ="0.0000" ScaleX="1.0000" ScaleY="13.0000" ScaleZ="1.0000" RotateX="0.00000000" RotateY="0.00000000" RotateZ="-120.00000000" versionNumber="5" StartChannel="!Ethernet_:1">
+      <ControllerConnection Protocol="ws2811" Port="1"/>
+    </model>
+    <model DisplayAs="Custom" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm3="1" LayoutGroup="Default" parm2="10" parm1="1" Depth="1" CustomModel="1;2;3;4;5;10;9;8;7;6" CustomBkgLightness="0" CustomBkgImage="" PixelSize="15" name="LedStrip1" Controller="Ethernet_" ModelChain="&gt;LedStrip0" WorldPosX="417.6854" WorldPosY="136.7235" WorldPosZ="0.0000" ScaleX="1.0000" ScaleY="13.0000" ScaleZ="1.0000" RotateX="0.00000000" RotateY="0.00000000" RotateZ="120.00000000" versionNumber="5" StartChannel="!Ethernet_:31">
+      <ControllerConnection Port="1" Protocol="ws2811"/>
+    </model>
+  </models>
+  <view_objects>
+    <view_object DisplayAs="Gridlines" LayoutGroup="Default" name="Gridlines" GridLineSpacing="50" GridWidth="2000.0" GridHeight="1000.0" Active="1" WorldPosX="0.0000" WorldPosY="0.0000" WorldPosZ="0.0000" ScaleX="1.0000" ScaleY="1.0000" ScaleZ="1.0000" RotateX="-90.00000000" RotateY="-0.00000000" RotateZ="0.00000000" versionNumber="5"/>
+  </view_objects>
+  <effects version="0007"/>
+  <views/>
+  <palettes/>
+  <modelGroups>
+    <modelGroup selected="0" name="ALL" layout="minimalGrid" GridSize="400" LayoutGroup="Default" models="LedStrip0,LedStrip1,LedStrip2,LedStrip3,LedStrip4,LedStrip5,LedStrip6,LedStrip7,LedStrip8,LedStrip9,LedStrip10,LedStrip11,LedStrip12,LedStrip13,LedStrip14,LedStrip15,LedStrip16,LedStrip17,LedStrip18,LedStrip19,LedStrip20,LedStrip21,LedStrip22,LedStrip23,LedStrip24,LedStrip25,LedStrip26,LedStrip27,LedStrip28,LedStrip29,LedStrip30,LedStrip31,LedStrip32,LedStrip33,LedStrip34,LedStrip35,LedStrip36,LedStrip37,LedStrip38,LedStrip39"/>
+  </modelGroups>
+  <layoutGroups/>
+  <perspectives current="Default Perspective">
+    <perspective name="Default Perspective" settings="layout2|name=ModelPreview;caption=Model Preview;state=6293500;dir=4;layer=1;row=0;pos=0;prop=100000;bestw=250;besth=250;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=HousePreview;caption=House Preview;state=6293500;dir=4;layer=1;row=0;pos=1;prop=100000;bestw=250;besth=250;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=EffectAssist;caption=Effect Assist;state=2099198;dir=4;layer=1;row=0;pos=2;prop=100000;bestw=250;besth=250;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=DisplayElements;caption=Display Elements;state=6293503;dir=4;layer=0;row=0;pos=0;prop=100000;bestw=600;besth=400;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=600;floath=400|name=Perspectives;caption=Perspectives;state=2099198;dir=4;layer=1;row=0;pos=0;prop=100000;bestw=136;besth=130;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=Effect;caption=Effect Settings;state=2099196;dir=4;layer=0;row=1;pos=0;prop=100000;bestw=426;besth=766;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=SelectEffect;caption=Select Effects;state=2099198;dir=4;layer=1;row=0;pos=0;prop=100000;bestw=384;besth=273;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=EffectDropper;caption=Effects;state=2099198;dir=1;layer=0;row=0;pos=0;prop=100000;bestw=1044;besth=696;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=ValueCurveDropper;caption=Value Curves;state=2099198;dir=1;layer=0;row=0;pos=0;prop=100000;bestw=40;besth=40;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=ColourDropper;caption=Colours;state=2099198;dir=1;layer=0;row=0;pos=0;prop=100000;bestw=20;besth=20;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=Jukebox;caption=Jukebox;state=2099198;dir=1;layer=0;row=0;pos=0;prop=100000;bestw=100;besth=200;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=FindData;caption=Find Data;state=2099198;dir=1;layer=0;row=0;pos=0;prop=100000;bestw=314;besth=164;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=Color;caption=Color;state=2099196;dir=1;layer=0;row=0;pos=0;prop=100000;bestw=334;besth=341;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=LayerTiming;caption=Layer Blending;state=2099196;dir=1;layer=0;row=0;pos=1;prop=100000;bestw=279;besth=282;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=LayerSettings;caption=Layer Settings;state=2099196;dir=1;layer=0;row=0;pos=2;prop=100000;bestw=267;besth=393;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=SequenceVideo;caption=Sequence Video;state=2099199;dir=4;layer=0;row=0;pos=0;prop=100000;bestw=280;besth=169;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=234;floaty=234;floatw=296;floath=208|name=Main Sequencer;caption=Main Sequencer;state=768;dir=5;layer=0;row=0;pos=0;prop=100000;bestw=118;besth=50;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|dock_size(4,1,0)=252|dock_size(4,0,1)=350|dock_size(1,0,0)=139|dock_size(5,0,0)=120|" version="2.0"/>
+  </perspectives>
+  <settings>
+    <backgroundAlpha value="10"/>
+    <previewWidth value="1280"/>
+    <previewHeight value="720"/>
+    <backgroundImage value="C:\Ebucci\Esagono\figures\сhromance.png"/>
+  </settings>
+  <colors>
+    <DisabledEffect Red="200" Green="200" Blue="0"/>
+    <EffectDefault Red="192" Green="192" Blue="192"/>
+    <EffectSelected Red="204" Green="102" Blue="255"/>
+    <EffectSelectedDisabled Red="200" Green="200" Blue="64"/>
+    <EffectSelectedFixed Red="255" Green="128" Blue="0"/>
+    <EffectSelectedLocked Red="200" Green="0" Blue="64"/>
+    <GridDashes Red="255" Green="255" Blue="0"/>
+    <Gridlines Red="40" Green="40" Blue="40"/>
+    <LabelOutline Red="103" Green="103" Blue="103"/>
+    <Labels Red="255" Green="255" Blue="204"/>
+    <LayoutDashes Red="255" Green="255" Blue="0"/>
+    <LockedEffect Red="200" Green="0" Blue="0"/>
+    <ModelDefault Red="211" Green="211" Blue="211"/>
+    <ModelOverlap Red="255" Green="0" Blue="0"/>
+    <ModelSelected Red="255" Green="255" Blue="0"/>
+    <Phonemes Red="255" Green="181" Blue="218"/>
+    <Phrases Red="153" Green="255" Blue="153"/>
+    <ReferenceEffect Red="255" Green="0" Blue="255"/>
+    <ReferenceEffectDisabled Red="255" Green="255" Blue="127"/>
+    <ReferenceEffectLocked Red="255" Green="0" Blue="127"/>
+    <RowHeaderSelected Red="130" Green="178" Blue="207"/>
+    <Timing1 Red="0" Green="255" Blue="255"/>
+    <Timing2 Red="255" Green="0" Blue="0"/>
+    <Timing3 Red="0" Green="255" Blue="0"/>
+    <Timing4 Red="0" Green="0" Blue="255"/>
+    <Timing5 Red="255" Green="255" Blue="0"/>
+    <TimingDefault Red="255" Green="255" Blue="255"/>
+    <Waveform Red="130" Green="178" Blue="207"/>
+    <WaveformSelected Red="0" Green="0" Blue="200"/>
+    <WaveformSelectedEffect Red="255" Green="128" Blue="0"/>
+    <Words Red="255" Green="218" Blue="145"/>
+  </colors>
+  <Viewpoints/>
+</xrgb>
