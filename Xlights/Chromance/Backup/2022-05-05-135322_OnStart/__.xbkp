@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="true">
+  <head>
+    <version>2022.06</version>
+    <author></author>
+    <author-email></author-email>
+    <author-website></author-website>
+    <song></song>
+    <artist></artist>
+    <album></album>
+    <MusicURL></MusicURL>
+    <comment></comment>
+    <sequenceTiming>25 ms</sequenceTiming>
+    <sequenceType>Animation</sequenceType>
+    <mediaFile></mediaFile>
+    <sequenceDuration>30.000</sequenceDuration>
+    <imageDir></imageDir>
+  </head>
+  <nextid>1</nextid>
+  <ColorPalettes>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette4=1</ColorPalette>
+  </ColorPalettes>
+  <EffectDB>
+    <Effect>E_CHECKBOX_Morph_AutoRepeat=0,E_CHECKBOX_Morph_End_Link=0,E_CHECKBOX_Morph_Start_Link=0,E_CHECKBOX_ShowHeadAtStart=0,E_NOTEBOOK_Morph=Options,E_SLIDER_MorphAccel=-6,E_SLIDER_MorphDuration=20,E_SLIDER_MorphEndLength=28,E_SLIDER_MorphStartLength=56,E_SLIDER_Morph_End_X1=0,E_SLIDER_Morph_End_X2=100,E_SLIDER_Morph_End_Y1=100,E_SLIDER_Morph_End_Y2=100,E_SLIDER_Morph_Repeat_Count=0,E_SLIDER_Morph_Repeat_Skip=1,E_SLIDER_Morph_Stagger=0,E_SLIDER_Morph_Start_X1=0,E_SLIDER_Morph_Start_X2=100,E_SLIDER_Morph_Start_Y1=0,E_SLIDER_Morph_Start_Y2=0</Effect>
+  </EffectDB>
+  <DataLayers>
+    <DataLayer lor_params="1" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker"/>
+  </DataLayers>
+  <DisplayElements>
+    <Element collapsed="0" type="timing" name="New Timing" visible="1" views="Master View" active="1"/>
+    <Element collapsed="0" type="model" name="All" visible="1"/>
+    <Element collapsed="0" type="model" name="Perimeter" visible="1"/>
+    <Element collapsed="0" type="model" name="LedStrip23" visible="1"/>
+    <Element collapsed="0" type="model" name="LedStrip22" visible="1"/>
+    <Element collapsed="0" type="model" name="LedStrip21" visible="1"/>
+    <Element collapsed="0" type="model" name="LedStrip20" visible="1"/>
+    <Element collapsed="0" type="model" name="LedStrip19" visible="1"/>
+    <Element collapsed="0" type="model" name="LedStrip18" visible="1"/>
+    <Element collapsed="0" type="model" name="LedStrip17" visible="1"/>
+    <Element collapsed="0" type="model" name="LedStrip16" visible="1"/>
+    <Element collapsed="0" type="model" name="LedStrip15" visible="1"/>
+    <Element collapsed="0" type="model" name="LedStrip14" visible="1"/>
+    <Element collapsed="0" type="model" name="LedStrip13" visible="1"/>
+    <Element collapsed="0" type="model" name="LedStrip12" visible="1"/>
+    <Element collapsed="0" type="model" name="LedStrip11" visible="1"/>
+    <Element collapsed="0" type="model" name="LedStrip10" visible="1"/>
+    <Element collapsed="0" type="model" name="LedStrip9" visible="1"/>
+    <Element collapsed="0" type="model" name="LedStrip8" visible="1"/>
+    <Element collapsed="0" type="model" name="LedStrip7" visible="1"/>
+    <Element collapsed="0" type="model" name="LedStrip6" visible="1"/>
+    <Element collapsed="0" type="model" name="LedStrip5" visible="1"/>
+    <Element collapsed="0" type="model" name="LedStrip4" visible="1"/>
+    <Element collapsed="0" type="model" name="LedStrip3" visible="1"/>
+    <Element collapsed="0" type="model" name="LedStrip2" visible="1"/>
+    <Element collapsed="0" type="model" name="LedStrip1" visible="1"/>
+    <Element collapsed="0" type="model" name="LedStrip0" visible="1"/>
+  </DisplayElements>
+  <ElementEffects>
+    <Element type="timing" name="New Timing">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="All">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Perimeter">
+      <EffectLayer>
+        <Effect ref="0" name="Morph" selected="1" startTime="0" endTime="19150" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="LedStrip23">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="LedStrip22">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="LedStrip21">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="LedStrip20">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="LedStrip19">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="LedStrip18">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="LedStrip17">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="LedStrip16">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="LedStrip15">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="LedStrip14">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="LedStrip13">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="LedStrip12">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="LedStrip11">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="LedStrip10">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="LedStrip9">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="LedStrip8">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="LedStrip7">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="LedStrip6">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="LedStrip5">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="LedStrip4">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="LedStrip3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="LedStrip2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="LedStrip1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="LedStrip0">
+      <EffectLayer/>
+    </Element>
+  </ElementEffects>
+  <lastView>0</lastView>
+  <TimingTags>
+    <Tag number="0" position="-1"/>
+    <Tag number="1" position="-1"/>
+    <Tag number="2" position="-1"/>
+    <Tag number="3" position="-1"/>
+    <Tag number="4" position="-1"/>
+    <Tag number="5" position="-1"/>
+    <Tag number="6" position="-1"/>
+    <Tag number="7" position="-1"/>
+    <Tag number="8" position="-1"/>
+    <Tag number="9" position="-1"/>
+  </TimingTags>
+</xsequence>
