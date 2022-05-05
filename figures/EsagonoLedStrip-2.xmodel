@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<custommodel 
+name="EsagonoLedStrip-2" parm1="10" parm2="1" Depth="1" StringType="RGB Nodes" Transparency="0" PixelSize="15" ModelBrightness="" Antialias="1" StrandNames="" NodeNames="" CustomModel="1,2,3,4,5,10,9,8,7,6" SourceVersion="2022.06"  >
+</custommodel>
