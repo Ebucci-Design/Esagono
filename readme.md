@@ -156,7 +156,7 @@ BOM
 | Node        | 18       |
 | Master Node | 1        |
 
-[HexTriforce map file](software/HexTriforce_map.h)
+[HexConcentricDuo map file](software/HexConcentricDuo.h)
 
 ### Esagono Chromance
 
