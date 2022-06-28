@@ -140,6 +140,24 @@ BOM
 
 [HexTriforce map file](software/HexTriforce_map.h)
 
+### Esagono HexConcentricDuo
+
+<p align = center>
+	<a href = "figures/HexConcentricDuo.pdf">
+		<img src="figures/HexConcentricDuo.png" height="500px"/>
+	</a>
+</p>
+
+BOM
+
+| Item        | Quantity |
+|-------------|----------|
+| Light strip | 24       |
+| Node        | 18       |
+| Master Node | 1        |
+
+[HexTriforce map file](software/HexTriforce_map.h)
+
 ### Esagono Chromance
 
 This is a tribute to a [fantabulous youtuber Zack Freedman](https://www.youtube.com/watch?v=g6n8XLmZ__I). Thanks, Zack!
