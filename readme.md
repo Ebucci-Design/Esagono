@@ -116,6 +116,24 @@ BOM
 
 | Item        | Quantity |
 |-------------|----------|
+| Light strip | 30       |
+| Node        | 18       |
+| Master Node | 1        |
+
+[Maschile map file](software/maschile_map.h)
+
+### Esagono Maschile compensativo
+
+<p align = center>
+	<a href = "figures/maschile_compensativo.pdf">
+		<img src="figures/maschile_compensativo.png" height="500px"/>
+	</a>
+</p>
+
+BOM
+
+| Item        | Quantity |
+|-------------|----------|
 | Light strip | 34       |
 | Node        | 21       |
 | Master Node | 1        |
